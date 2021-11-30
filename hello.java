@@ -1,1 +1,2 @@
-printf("hello"
+printf("hello")
+print("second line")
